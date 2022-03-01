@@ -1,0 +1,542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs love, and saints sacrifice Preached in a sermon at St. Pauls Crosse, on the 23. of August, 1635. By Iames Conyers, Mr. of Arts of Sydney-Sussex in Cambridge, and minister of Stratford-Bow, in Middlesex.</title>
+            <author>Conyers, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12174</idno>
+            <idno type="STC">STC 5657</idno>
+            <idno type="STC">ESTC S114491</idno>
+            <idno type="EEBO-CITATION">99849716</idno>
+            <idno type="PROQUEST">99849716</idno>
+            <idno type="VID">177894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1268:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs love, and saints sacrifice Preached in a sermon at St. Pauls Crosse, on the 23. of August, 1635. By Iames Conyers, Mr. of Arts of Sydney-Sussex in Cambridge, and minister of Stratford-Bow, in Middlesex.</title>
+                  <author>Conyers, James.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. P[urslow] for H. Seile, dwelling at the Tygers head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177894:1"/>
+            <pb facs="tcp:177894:1"/>
+            <p>CHRISTS LOVE, AND SAINTS SA<g ref="char:EOLhyphen"/>CRIFICE.</p>
+            <p>Preached in a Sermon at St. <hi>Pauls</hi> Croſſe, on the 23. of <hi>Auguſt,</hi> 1635.</p>
+            <p>BY IAMES CONYERS, M<hi rend="sup">r</hi>. of <hi>Arts</hi> of <hi>Sydney-Suſſex</hi> in <hi>Cambridge,</hi> and Miniſter of <hi>Stratford-Bow,</hi> in <hi>Middleſex.</hi>
+            </p>
+            <bibl>CANTIC. 2. 12.</bibl>
+            <q>My wel-beloved is unto me as a bundle of Myrrhe, hee ſhall lye betweene my brests.</q>
+            <bibl>Ambroſ. in 118. Pſal.</bibl>
+            <q>Velle Christi commune in omnes est; mundari, fidei eſt credentis in Christum.</q>
+            <p>LONDON, Printed by <hi>E. P.</hi> for <hi>H. Seile,</hi> dwelling at the Ty<g ref="char:EOLhyphen"/>gers head in St. <hi>Pauls</hi> Church-yard, 1635.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177894:2"/>
+            <pb facs="tcp:177894:2"/>
+            <head>TO THE RIGHT WORSHIPFVLL Sir ROGER NORTH, of <hi>Milden Hall,</hi> in SVFFOLKE; His truely Religious Lady, THOMASIN NORTH; Their much honoured Off-ſpring, HENRY NORTH, Eſquire; <hi>with his vertuous Spouſe,</hi> M<hi rend="sup">ris</hi>. SARAH NORTH;
+<list>
+                  <item>
+                     <label>And</label>
+                     <list>
+                        <item>M<hi rend="sup">r</hi>. DVDLY NORTH,</item>
+                        <item>M<hi rend="sup">ris</hi>. MARY NORTH:</item>
+                     </list>
+                  </item>
+               </list> 
+               <hi>Collation of Grace and Glory.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Orthies,</hi> your gratious and im<g ref="char:EOLhyphen"/>merited <hi>Favours,</hi> not onely <hi>intended,</hi> but alſo <hi>extended</hi> to<g ref="char:EOLhyphen"/>wards <hi>me</hi> (the meaneſt of a thouſand) <hi>exact</hi> at my <hi>hands</hi> a more ex<g ref="char:EOLhyphen"/>act <hi>Demonſtration</hi> of <hi>gratitude,</hi> than at this preſent to <hi>preſent</hi> you with a <hi>Sermon;</hi>
+               <pb facs="tcp:177894:3"/> but having no better <hi>Preſent</hi> to <hi>offer, daign</hi> it I pray you, your <hi>candid aſpect,</hi> and <hi>accept</hi> it, as <hi>Artaxerxes</hi> did the <hi>water</hi> at <hi>Synataes</hi> 
+               <note place="margin">Aelian.</note> hands, and expande yours for <hi>patronage;</hi> under which, as the <hi>Dove</hi> in <hi>Noahs Arke,</hi> ſhall be its beſt repoſe and ſhelter. The <hi>lines</hi> I tender you are a <hi>Monument</hi> of my ſincere and loving <hi>affection,</hi> in themſelves moſtly <hi>lines</hi> of <hi>Loue,</hi> not carnall but ſpi<g ref="char:EOLhyphen"/>rituall, being richly <hi>in-layd</hi> with the <hi>loue</hi> of <hi>Chriſt,</hi> that <hi>loue</hi> out-layd by effuſion of his moſt <hi>pretious Blood,</hi> together with the true <hi>felicity</hi> and incomparable <hi>dignity</hi> of <hi>Chrtſtians,</hi> wherewith your <hi>pious ſoules</hi> have beene daily more and more <hi>inamou<g ref="char:EOLhyphen"/>red,</hi> and your <hi>perſons</hi> more <hi>honoured,</hi> than <note place="margin">Nobilitas ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la eſt atque vinca ver<g ref="char:EOLhyphen"/>tus.</note> with any <hi>Indian Treaſure,</hi> or the <hi>Worlds</hi> umbratilous Honour; which <hi>Worke</hi> whereſoever it is wrought, there is e<g ref="char:EOLhyphen"/>minently, <hi>Digitus Dei,</hi> the <hi>finger</hi> of <hi>God,</hi> which <hi>finger</hi> as did that <hi>Starre</hi> the <hi>Magi,</hi> guide you to the <hi>Starre</hi> of <hi>Iacob,</hi> whoſe <hi>loue</hi> as a Banner ever over-ſpread you, and the <hi>bleſsings</hi> of whoſe <hi>hands</hi> com<g ref="char:EOLhyphen"/>paſſe you on every ſide, that yee may be able with all <hi>Saints</hi> to comprehend
+<pb facs="tcp:177894:3"/> what is the <hi>bredth,</hi> and <hi>length,</hi> and <hi>depth,</hi> 
+               <note place="margin">Epheſ. 3. 17, 18</note> and <hi>height,</hi> and to know the <hi>love</hi> of <hi>Christ,</hi> which paſſeth <hi>knowledge,</hi> and that yee may be <hi>filled</hi> with all <hi>fulneſse</hi> of <hi>God,</hi> to the <hi>praiſe</hi> of his <hi>Glory.</hi>
+            </p>
+            <closer>
+               <signed>Yours, and the Churches moſt humble Servant, IAMES CONYERS.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177894:4"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, <hi>as theſe</hi> lines <hi>are writ, ſo reade, in</hi> love; <hi>and then thou canst not</hi> carpe, <hi>but</hi> cover, <hi>if therein had eſcaped even a</hi> ſpectable Error. <hi>But to put</hi> thee <hi>out of</hi> doubt, <hi>I will be</hi> bold <hi>to warrant thee</hi> two things; <hi>first, herein is nothing contrary to</hi> good Manners, <hi>neither in the ſecond place oppoſite to</hi> orthodox Theologie, <hi>there<g ref="char:EOLhyphen"/>fore lend</hi> them <hi>thy</hi> looke, <hi>and happily thou wilt like them, and the rather if theſe</hi> contents, Chriſt his Love, his Blood, <hi>the</hi> price <hi>of thy</hi> Redemption, <hi>or thy owne</hi> bleſſed promotion <hi>like thee. In hope of one and all to thee and me, with all that</hi> love <hi>unfainedly, I rest thine in</hi> him <hi>that lives for ever, and ever</hi> loves <hi>his.</hi>
+            </p>
+            <closer>
+               <signed>J. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:177894:4"/>
+            <head>CHRISTS LOVE, AND SAINTS SACRIFICE.</head>
+            <epigraph>
+               <bibl>Apoc. cap. 1. verſ. 5, 6.</bibl>
+               <q>Vnto him that loved us, and waſhed us from our ſinnes in his blood, And made us Kings and Priests vnto God even his Father, to him be glory and Dominion for evermore, Amen.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Ere that <hi>Quaere</hi> put to <note place="margin">In vita Budaei idem narratur de Theodoro Goza. Sphynx Philoſ. c. 25.</note> mee which once was to <hi>Budeus,</hi> by <hi>Francis</hi> the firſt; <hi>viz.</hi> if <hi>all</hi> the <hi>vo<g ref="char:EOLhyphen"/>lumes</hi> in the <hi>world</hi> were <hi>doomed</hi> to the <hi>fire,</hi> what <hi>one</hi> would he <hi>ſaue?</hi> as his reſolue was, <hi>Plutarchs</hi> Works; by reaſon, they had the impreſſion of all <hi>Sciences:</hi> Mine, ſhould be, <hi>Epiſtolam Creatoris ad</hi> 
+               <note place="margin">Greg Ep. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Furiam.</note> 
+               <hi>Creaturas,</hi> the <hi>Epistle</hi> of the <hi>Creator</hi> to the <hi>Crea<g ref="char:EOLhyphen"/>ture,</hi> viz. the <hi>ſacred Scripture:</hi> And therein this
+<pb n="2" facs="tcp:177894:5"/> 
+               <hi>Text,</hi> a richer <hi>Mine</hi> than golden <hi>Peru</hi> affords, the <hi>Magazine</hi> of all true <hi>treaſure, Christ</hi> a <hi>jemme</hi> of <hi>invaluable price,</hi> his <hi>love</hi> better than <hi>Wine;</hi> his <hi>blood,</hi> one drop whereof more worth than the <note place="margin">Luthe. in 2. ad galat.</note> 
+               <hi>whole world;</hi> two <hi>Evangelicall</hi> and <hi>Angelicall Sa<g ref="char:EOLhyphen"/>crifices,</hi> the one <hi>expiatorie</hi> for <hi>ſin,</hi> made by <hi>Chriſt</hi> on the Altar of the <hi>Croſse,</hi> who <hi>loved us, and wa<g ref="char:EOLhyphen"/>ſhed us in his blood, and made us Kings and Prieſts unto our God:</hi> The other <hi>gratulatorie</hi> to <hi>Chriſt,</hi> 
+               <note place="margin">Iohn 21. 20.</note> preſented by the <hi>beloved Diſciple,</hi> for that act of meere grace: <hi>To him be glory and dominion for evermore, Amen.</hi>
+            </p>
+            <p>In the former <hi>ſacrifice,</hi> are offered two parts. <note place="margin">Analyſis.</note>
+            </p>
+            <list>
+               <item>1 The <hi>Motive</hi> thereto.</item>
+               <item>2 The <hi>Manifeſtation</hi> thereof. <note place="margin">Expiatory Sa<g ref="char:EOLhyphen"/>crifice.</note>
+               </item>
+            </list>
+            <p>The <hi>Motive,</hi> is <hi>love;</hi> wherein, to ſhun a deni<g ref="char:EOLhyphen"/>all diſcourſe, I ſhall confine to theſe <hi>limits:</hi>
+            </p>
+            <list>
+               <item>1 The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that <hi>Christ</hi> loved us.</item>
+               <item>2 The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the impulſive cauſe to <hi>love</hi> us.</item>
+               <item>3 The <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, how he <hi>loved</hi> us.</item>
+               <item>4 The <hi>quos,</hi> whom, he <hi>loved</hi> us.</item>
+            </list>
+            <p>Vnto him that loved us.</p>
+            <p>The <hi>Manifeſtation</hi> of this <hi>love,</hi> appeares two wayes. 1. In <hi>Chriſts owne Humiliation, (viz.)</hi> he <note place="margin">Chriſts Humi<g ref="char:EOLhyphen"/>liation.</note> 
+               <hi>waſhed us from our ſinnes in his Blood;</hi> where are in-laid theſe 3. particulars:</p>
+            <list>
+               <item>1 The Act; <hi>he waſhed.</hi>
+               </item>
+               <item>2 The Object, <hi>us from our ſinnes.</hi>
+               </item>
+               <item>3 The <hi>Organon,</hi> wherewith; <hi>his owne blood.</hi>
+               </item>
+            </list>
+            <p>2. In our <hi>Exaltation,</hi> in theſe words; <hi>and</hi> 
+               <note place="margin">Our Exaltati<g ref="char:EOLhyphen"/>on.</note> 
+               <hi>made us Kings and Prieſts to God his Father, &amp;c.</hi> whereout ſprings two branches of <hi>honour:</hi>
+            </p>
+            <pb n="3" facs="tcp:177894:5"/>
+            <p>The firſt, is <hi>Regall,</hi> hee hath crowned us <hi>Kings:</hi>
+            </p>
+            <p>The ſecond, is <hi>ſacerdoticall;</hi> hee hath <hi>conſe<g ref="char:EOLhyphen"/>crated</hi> us <hi>Prieſts, unto God, even his Father.</hi>
+            </p>
+            <p>In the latter <hi>ſacrifice,</hi> which is <hi>Euchariſticall,</hi> 
+               <note place="margin">Euchariſticall Sacrifice.</note> obſerve, firſt, the matter expreſſed, <hi>Glory and Dominion:</hi> ſecondly, the <hi>Majeſtie,</hi> to whom it is preſented; <hi>viz.</hi> the <hi>Prince</hi> of the <hi>Kings</hi> of the <hi>Earth:</hi> Thirdly, the <hi>manner,</hi> preſſed two waies: Firſt, in regard of <hi>cirumſtance</hi> of <hi>time,</hi> beyond all <hi>time,</hi> for <hi>evermore:</hi> Secondly, in regard of the <hi>Sacrificer,</hi> with a <hi>good heart,</hi> and a <hi>very good heart,</hi> couched in this word <hi>Amen; Vnto him that loved us, &amp;c.</hi> Thus have I taken the <hi>Text</hi> aſun<g ref="char:EOLhyphen"/>der, and now I muſt take the <hi>parts</hi> in their or<g ref="char:EOLhyphen"/>der; and becauſe they are <hi>many,</hi> I muſt but <hi>touch,</hi> as the <hi>Bee</hi> the <hi>flower,</hi> and flie away. The firſt that <hi>Method</hi> manuducts me to, is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that our <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Mercy-Maſter Christ Ieſus loved us:</hi> this is true, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in <hi>word</hi> and <hi>deed,</hi> a <hi>Truth,</hi> 
+               <note place="margin">Tertul.</note> 
+               <hi>Tanquam radio ſolis ſcripta,</hi> as ingraven with the <hi>Sunne-beame;</hi> behold the manner of the <hi>writing:</hi> The wretched <hi>Iewes</hi> play'd the <hi>Scribes;</hi> the <hi>pens</hi> they uſed, were <hi>thornes,</hi> and <hi>ſpeares,</hi> and <hi>nayles;</hi> the <hi>inke,</hi> was <hi>purest blood;</hi> the <hi>Volume</hi> wherein they writ (and that on both ſides) was the <hi>body</hi> of all <hi>Divinity;</hi> the <hi>capitall letters,</hi> deepe and wide <hi>wounds;</hi> the <hi>teſtimonies, men</hi> and <hi>Angels;</hi> 
+               <note place="margin">Brond. in loc.</note> the <hi>Seale</hi> ſet to it, was <hi>Christs conſummatum eſt,</hi> it is finiſhed: whereon, as an impregnable <hi>Arch-jewell,</hi> I build my <hi>faith,</hi> and am perſwaded, <hi>That neither death, nor life, nor Angels, nor principa<g ref="char:EOLhyphen"/>lities,</hi> 
+               <note place="margin">Rom. 8. 38, 39</note>
+               <pb n="4" facs="tcp:177894:6"/> 
+               <hi>nor powers, nor things preſent, nor things to come, nor height, nor depth, nor any other creature, ſhall euer be able to ſeparate us from the love of Chriſt Ieſus, who loved us.</hi> And thus much, or rather, thus little, on this <hi>firſt point, viz.</hi> the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>Chriſt loved us;</hi> and ſo we proceed to the ſecond, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, why he <hi>loved us.</hi> The <hi>Ethnicks</hi> feigne, their <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Gods</hi> and <hi>Goddeſses</hi> for ſome <hi>lovely good, loved</hi> cer<g ref="char:EOLhyphen"/>taine <hi>Trees; Iupiter,</hi> the <hi>Oke,</hi> for <hi>durance; Nep<g ref="char:EOLhyphen"/>tune,</hi> the <hi>Cedar,</hi> for <hi>ſtature; Apollo,</hi> the <hi>Laurell,</hi> for <hi>greenneſse; Venus,</hi> the <hi>Poplar,</hi> for <hi>whiteneſſe; Pallas,</hi> the <hi>Vine,</hi> for <hi>fruitfulneſse:</hi> but what ſhould move the <hi>God</hi> of all <hi>gods,</hi> to <hi>love us, wil<g ref="char:EOLhyphen"/>dings</hi> in this <hi>fooles Paradiſe; Trees</hi> indeed; but ſuch as St. <hi>Iude</hi> mentions, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, corrupt, fruitleſſe, twice dead, and plucked up by the rootes. St. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> reſolves it in three words, <hi>Amat quia amat,</hi> hee <hi>loves</hi> becauſe he <hi>loves;</hi> the root of <hi>love</hi> to <hi>us,</hi> lyeth in <hi>himſelfe,</hi> and by his commu<g ref="char:EOLhyphen"/>nicative <hi>goodneſſe</hi> the fruit is <hi>ours.</hi>
+            </p>
+            <p>Hence then exclude wee all <hi>boasting</hi> in our <hi>ſelves,</hi> and conclude, ſith <hi>Christ</hi> hath <hi>loved us,</hi> and hereby is made to us <hi>wiſdome</hi> in the head<g ref="char:EOLhyphen"/>faculty of our <hi>ſoules, righteouſneſſe</hi> in the workes of our <hi>hands, ſanctification</hi> in our <hi>hearts, redemp<g ref="char:EOLhyphen"/>tion</hi> 
+               <note place="margin">Zach. 4. 7.</note> in all <hi>parts;</hi> it was of <hi>grace,</hi> and <hi>grace</hi> be to it: and thus from the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>why he loved us,</hi> paſſe we to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>how he loved us.</hi>
+            </p>
+            <p>Whereon while I <hi>muſe,</hi> I am rapt with <hi>a<g ref="char:EOLhyphen"/>mazement;</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> for ſuppoſe the <hi>Heavens</hi> as a <hi>ſcrowle</hi> of <hi>Parchment;</hi> the <hi>Vaſte Ocean, Inke; Creatures</hi>
+               <pb n="5" facs="tcp:177894:6"/> caeleſtiall and ſubcaeleſtiall <hi>Pen-men;</hi> all were unable to unfold this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>how he loved us:</hi> The reaſon is, his <hi>love</hi> as <hi>himſelfe</hi> is <hi>infinite;</hi> which no <hi>finite</hi> creature is able fully to comprehend; yet in a <hi>modell</hi> we may conceive it is much: ſo <hi>ſounds</hi> that <hi>Trumpet</hi> of <hi>grace,</hi> as if he <hi>loved,</hi> &amp; <hi>overloved: Propter nimium charitatem,</hi> ſo it is rendred in the <note place="margin">Epheſ. 2. 4.</note> vulgar. Our ſtupendious <hi>Divine,</hi> hee ſpeakes for order firſt: grave <hi>Cyprian</hi> ſayes, <hi>Immerito di<g ref="char:EOLhyphen"/>lexit,</hi> 
+               <note place="margin">1 Iohn 4. 19.</note> he loved us in <hi>mercy,</hi> without <hi>merit.</hi> St. <hi>Bernard</hi> thus, he loved us, <hi>Dulciter,</hi> ſweetly, he <note place="margin">In Cantic.</note> aſſumed our <hi>nature, ſapienter,</hi> wiſely; he ſevered ſinne and nature, <hi>fortiter,</hi> ſtrongly: Much <hi>wa<g ref="char:EOLhyphen"/>ters</hi> could not quench <hi>love,</hi> though never ſo bitter or ſo abundant; nay the more <hi>waters,</hi> the more <hi>love.</hi>
+            </p>
+            <q>Magnes Amoris Amor.</q>
+            <p>His <hi>love</hi> ſhould be the <hi>magnet</hi> of ours: But oh how are we drawn aſide! if we <hi>love</hi> him, it is but a <hi>little,</hi> too little, or little or nothing at all, as we ſhould. Will you reade the reaſon, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <note place="margin">Iſid. Peleus. Ep. 209.</note> Since the <hi>love</hi> of <hi>Gold</hi> grew ſo <hi>hot,</hi> the <hi>love</hi> of <hi>Chriſt</hi> hath growne <hi>cold:</hi> Since <hi>Prince Mammon</hi> hath <hi>triumphed,</hi> the <hi>Prince</hi> of our <hi>Sal<g ref="char:EOLhyphen"/>vation</hi> hath been <hi>underprized.</hi> Shall this worlds <hi>goods,</hi> which in reſpect of <hi>Christ,</hi> are meere <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>rubbiſh;</hi> or the <hi>god</hi> of this <hi>World,</hi> which onely <hi>loves</hi> us, as the <hi>Wolfe</hi> the <hi>Lambe</hi> to devoure, have ſo ſtrong a hand over us, to draw our <hi>hearts</hi> from the <hi>love</hi> of our <hi>Saviour? Abſit, God</hi> for<g ref="char:EOLhyphen"/>bid: Yet for <hi>feare</hi> of the <hi>worſt,</hi> open thy <hi>eare</hi> to
+<pb n="6" facs="tcp:177894:7"/> 
+               <hi>Wiſdomes</hi> voyce; He that <hi>loves</hi> not <hi>Christ, plus quam ſe, ſuos, ſua,</hi> more than himſelfe, his friends, <note place="margin">Mat. 10. 37.</note> his meanes, <hi>is not worthy of him.</hi> If this ſhould not win our <hi>love,</hi> hearken to S. <hi>Pauls</hi> thunder, <hi>If</hi> 
+               <note place="margin">1 Cor. 16. 22.</note> 
+               <hi>any man love not the Lord Ieſus Christ, let him bee Anathema:</hi> or, if the <hi>voyce</hi> of <hi>conſolation</hi> may worke on our <hi>hearts,</hi> know, <hi>all things worke toge<g ref="char:EOLhyphen"/>gether for the best unto them that love God: Quae</hi> 
+               <note place="margin">Rom. 8. 28.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? <hi>Armies</hi> of <hi>Angels,</hi> as for <hi>Eliſhaes</hi> protecti<g ref="char:EOLhyphen"/>on; <hi>Sunne, Moone,</hi> and <hi>Starres,</hi> as for Duke <hi>Io<g ref="char:EOLhyphen"/>ſuah</hi> and <hi>Deboraes</hi> conqueſt; dumbe creatures, <note place="margin">Quid non ſpe<g ref="char:EOLhyphen"/>remus amantes.</note> for inſtruction and preſervation, <hi>Gods</hi> rod for caution, his rigide ſtaffe for reverence; ſicke<g ref="char:EOLhyphen"/>neſſe as in <hi>Ezechias,</hi> even ſinnes (by accident meerely) as in the <hi>Publican,</hi> for humiliation and ſalvation: theſe, as ſo many <hi>matches,</hi> may give <hi>fire</hi> to our <hi>chill affections,</hi> to inzeale and inflame them with the <hi>Love</hi> of <hi>Chriſt:</hi> but to prove it, is all in all; the touch-ſtone hereof is <hi>love</hi> to <hi>Gods</hi> materiall <hi>Temple,</hi> in ſincerity to behold the <note place="margin">Probatio amoris eſt exhibitio ope<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> faire <hi>beauty</hi> of the <hi>Lord,</hi> and to viſit his holy <hi>Temple,</hi> therein to hold up pure <hi>hands</hi> and <hi>hearts</hi> for the peace of <hi>Sion,</hi> and to uphold it <hi>prece &amp; pretio,</hi> with our <hi>prayers,</hi> and with our <hi>purſes,</hi> in oppoſition to the old <hi>Maſsalians,</hi> who to the number of their <hi>impieties</hi> adde <hi>contemptum tem<g ref="char:EOLhyphen"/>plorum,</hi> the diſgrace of <hi>Cathedrals;</hi> as alſo to crowne our <hi>ſoules</hi> with <hi>bleſſings,</hi> for they ſhall proſper that <hi>love</hi> it: And let not our <hi>love</hi> onely reſt here, but reach to the myſticall <hi>Temple, viz. Chriſts</hi> poore members; hereby we ſhall neither want <hi>Chriſts</hi> commemoration, nor remunerati<g ref="char:EOLhyphen"/>on:
+<pb n="7" facs="tcp:177894:7"/> For what if the great <hi>Keeper</hi> of his <hi>Saints</hi> here, and the <hi>Grand-Iudge</hi> of all at <hi>Doomeſ-day,</hi> ſhall conceale <hi>Abels martyrdome, Noah</hi> his ſa<g ref="char:EOLhyphen"/>ving a remnant from the <hi>Deluge, Abrahams</hi> in<g ref="char:EOLhyphen"/>vincible <hi>Faith; Peters, Pauls, Iohns ſufferings;</hi> yet of the <hi>acts</hi> of <hi>charity,</hi> he will make a rehear<g ref="char:EOLhyphen"/>ſall <hi>Sermon, I was an hungred, and ye gave me meat;</hi> 
+               <note place="margin">Mat. 25. 35.</note> 
+               <hi>I thirſted, and ye gave me drinke; I was a ſtranger, and ye lodged me; I was naked, and ye clothed me; I was ſick, and yee viſited me; I was in priſon, and ye came unto me;</hi> and therefore I will remunerate your <hi>bowels</hi> of <hi>mercie,</hi> with, <hi>Come yee bleſsed of my Father, &amp;c. Come</hi>
+            </p>
+            <list>
+               <item>
+                  <label>ad</label>
+                  <list>
+                     <item>me your <hi>Savior,</hi> that dearely bought you, <note place="margin">Venite benedicti.</note>
+                     </item>
+                     <item>
+                        <hi>meos,</hi> to my <hi>Saints</hi> and <hi>Angels</hi> your fellow ſervants.</item>
+                     <item>
+                        <hi>mea,</hi> to all that is mine, joyes, &amp;c.</item>
+                  </list>
+               </item>
+            </list>
+            <p>Honours interminable to all dimenſions, <hi>bleſsed of my Father,</hi> before you were borne, and <hi>bleſſed</hi> that ever yee were borne: <hi>inherit</hi> by my <hi>grace,</hi> not your <hi>merit,</hi> no leſſe than <hi>a Kingdome,</hi> no other than a heavenly Kingdome, <hi>prepared for you</hi> before all time, purchaſed for you in the fulneſſe of time, and ſhall bee <hi>yours</hi> in <hi>poſſeſſion</hi> when there ſhall be no more <hi>time.</hi> Thus in a ſhort compaſſe of time, I come unto the laſt <hi>ſtage, viz. Quos</hi> whom <hi>Christ loved.</hi>
+            </p>
+            <q>[Vs] Vnto him that loved us.</q>
+            <p>Divine Hiſtory perpetuates the memorable <hi>affection</hi> of <hi>Ionathan</hi> to <hi>David,</hi> how his <hi>ſoule</hi> was
+<pb n="8" facs="tcp:177894:8"/> knit unto his <hi>ſoule, And hee loved him as his owne</hi> 
+               <note place="margin">1 Sam. 18.</note> 
+               <hi>ſoule;</hi> thereto was no little inducement, for <hi>David</hi> was <hi>Ionathans</hi> Fathers beloved <hi>ſervant,</hi> his owne faithfull <hi>friend,</hi> a wiſe and valiant <hi>Cap<g ref="char:EOLhyphen"/>taine,</hi> and all <hi>Iſrael</hi> loved him. Humane ſtory <note place="margin">Val. Max. l. 4. cap. 8.</note> ſurvives of <hi>Orestillo,</hi> when her life went from her, <hi>Pla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tius</hi> at the inſtant became her ſecond for a <hi>buriall,</hi> in memoriall wherof was erected a <hi>Monument</hi> at <hi>Tarentum,</hi> called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Lovers Monument:</hi> Theſe wee muſt know were deare and neere, an <hi>eſpouſed paire:</hi> but for <hi>Christ</hi> to ſet his <hi>love</hi> on us, every way unworthy <note place="margin">Rom. 5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Hoſ. 2. 19.</note> to be <hi>beloved,</hi> 1. weake, 2. godleſſe, 3. ſinners, 4. enemies, yea traytors to <hi>him</hi> and our owne <hi>ſoules,</hi> though once <hi>eſpouſed</hi> by a <hi>Ring</hi> of <hi>Love,</hi> in-laid with the <hi>pearles</hi> of his <hi>Spirit,</hi> yet by rea<g ref="char:EOLhyphen"/>ſon of ſpirituall adultery, divorced; and for all this, to <hi>love</hi> us! this is much, <hi>Greater love than this</hi> 
+               <note place="margin">Iſa. 59. 2. Iohn 15. 13</note> 
+               <hi>hath no man, than to lay downe his life for his friend;</hi> yet (under correction) <hi>To majorem habuisti cha<g ref="char:EOLhyphen"/>ritatem Domine; dilexti non existentes, imò reſi<g ref="char:EOLhyphen"/>ſtentes;</hi> greater, ſweet Saviour, was thy <hi>love:</hi> thou <hi>lovedst</hi> us when wee were nothing, yea worſe than nothing, ſworne enemies to thy life. In meditation whereof that <hi>inſcription</hi> upon <hi>Se<g ref="char:EOLhyphen"/>nacheribs Tombe,</hi> I may apply to <hi>Christ,</hi> and the <hi>Christians</hi> uſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. whoſo<g ref="char:EOLhyphen"/>ever <note place="margin">Herodot.</note> thou art, make <hi>Christ</hi> thy ſpectacle, learne of him to <hi>love</hi> thine enemies: this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">Luke. 6. 35.</note> that ſpirituall <hi>wiſdome</hi> which adopts thee <hi>Gods</hi> child: hereto <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, natures inſtinct workes, all being <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of one blood: now never
+<pb n="9" facs="tcp:177894:8"/> man hated his owne <hi>fleſh;</hi> this is the Royall <note place="margin">Acts 17. 26.</note> 
+               <hi>command,</hi> I ſay to you, <hi>Love your enemies:</hi> and <note place="margin">Mat. 5. 44</note> 
+               <hi>Christ</hi> himſelfe herein is, <hi>exemplum fine exemplo,</hi> a matchleſſe mirrour of benevolence and bene<g ref="char:EOLhyphen"/>ficence towards his <hi>enemies,</hi> in that he <hi>loved</hi> us. It is ſtoryed of <hi>Alexander</hi> the <hi>Monarch,</hi> that he <note place="margin">Edicte vetuit, de quis ſe praeter Apelle pingeret, aut alius Lyſippo Horat. Epiſt. 2.</note> would have no man draw his <hi>Picture,</hi> ſave <hi>Apel<g ref="char:EOLhyphen"/>les,</hi> or engrave it, ſave <hi>Lyſippus;</hi> the beſt <hi>Artists,</hi> both for theorie and practice. No <hi>Artist</hi> in <hi>Chriſtendome</hi> can draw the moſt high GOD, bet<g ref="char:EOLhyphen"/>ter to the life, than in the <hi>lines</hi> of his owne life to blaze the true orientall colours of <hi>love</hi> to<g ref="char:EOLhyphen"/>wards his <hi>enemies,</hi> after the example of the in<g ref="char:EOLhyphen"/>graven forme of his <hi>perſon,</hi> that <hi>loved</hi> us; which words ere I depart from, me thinks ecchoes ſo ſweetly in the <hi>eare</hi> of my <hi>ſoule,</hi> and in thine (ex<g ref="char:EOLhyphen"/>cept deafeneſſe or deadneſſe, have made a for<g ref="char:EOLhyphen"/>cible entrie) that <hi>Miriams</hi> Timbrels, <hi>Aſaphs</hi> Trumpet, <hi>Davids</hi> Anthemes, <hi>Salomons</hi> Epitha<g ref="char:EOLhyphen"/>lamions, ſound nothing ſo ſweetly; the ground <note place="margin">Rom. 5. 10</note> is ſound; for if when we were <hi>enemies,</hi> we were re<g ref="char:EOLhyphen"/>conciled to <hi>God</hi> by the death of his <hi>Sonne,</hi> much more being reconciled, we ſhall be <hi>ſaved</hi> by his <hi>life:</hi> which brings me to the ſecond general part, the <hi>life</hi> of his <hi>love,</hi> in ample manifeſtation. <note place="margin">2 Generall part of the 1 Sacrifice. <hi>Queſt.</hi>
+               </note>
+            </p>
+            <q>He waſhed us in his blood from our ſinnes.</q>
+            <p>
+               <hi>Hee? Chriſt</hi> the Sonne of the living <hi>God, Lord</hi> of <hi>Men</hi> and <hi>Angels,</hi> majeſty <hi>in excelſis</hi> in the higheſt, to become humility, <hi>in profundis,</hi> in the loweſt! did this become him? was not this a ſer<g ref="char:EOLhyphen"/>vile act, <hi>viz.</hi> to <hi>waſh us,</hi> a ſtaine to his honoura<g ref="char:EOLhyphen"/>ble <hi>perſon?</hi>
+            </p>
+            <pb n="10" facs="tcp:177894:9"/>
+            <p>To put this <hi>Queſtion</hi> out of doubt, or the <note place="margin">Reſp.</note> doubt out of <hi>queſtion,</hi> no whit: for herein firſt was the <hi>complement</hi> of that <hi>Propheſie</hi> in a good ſenſe, <hi>The elder ſhall ſerve the younger.</hi> Further, it <note place="margin">Gen. 25. 23.</note> was of ſuch abſolute neceſſity, that <hi>Peters</hi> caſe being ours, except he had waſhed us, we had had no part with him. But to cleere the <hi>ſcruple,</hi> 
+               <note place="margin">Iohn 13. 8.</note> it is illuſtrated thus; A <hi>Peere</hi> of the <hi>Realme</hi> 
+               <note place="margin">Ruff. in Symb.</note> beholding a <hi>poore child</hi> wel-nigh choaked in the mud, and to ſave him, if ſome ſlime ſhould ad<g ref="char:EOLhyphen"/>here to him, it were no diſhonour, rather an <hi>honour,</hi> to doe ſo good a dayes worke, as to ſave a <hi>ſoule: ſemblablie</hi> that true <hi>Noble-Man, Chriſt Ieſus,</hi> beholding with the eye of <hi>grace</hi> our ſilly <hi>ſoule</hi> plunged in the puddle of ſinne, albeit our ſlimy ſinnes ſtucke to him, to plucke us out and ſave us, it did not impaire his honour, yea ra<g ref="char:EOLhyphen"/>ther ſet it off with a fairer luſtre. And by this <hi>act</hi> he reades us a Lecture of <hi>humility.</hi> If I then your <hi>Lord</hi> and <hi>Maſter,</hi> have waſhed your feet, <note place="margin">Ioh. 13. 14, 15</note> ye ought alſo to <hi>waſh</hi> one anothers <hi>feet;</hi> for I have given you an <hi>example</hi> that ye ſhould doe, even as I have done: How may this be? Saint <hi>Cyprian</hi> is our <hi>Schoole-master, Quoties igitur, &amp;c.</hi> 
+               <note place="margin">D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ablutione pedum.</note> as often, as we perſwade thoſe which are under ſpirituall <hi>Pharoahs</hi> ſlavery, to get them out of <hi>Aegypt;</hi> mourne, with thoſe that mourne; burne with thoſe that are offended; are infirme, with thoſe that are infirme: that <note place="margin">Aquin. in Cor. 2. 11.</note> is, as <hi>Aquinas</hi> interprets, for him that is infirme in the <hi>Faith, Dolemus in cordibus nostris ſicut de nobis,</hi> lament for them as for our ſelves; ſo of<g ref="char:EOLhyphen"/>ten
+<pb n="11" facs="tcp:177894:9"/> waſh we the <hi>feet</hi> of our <hi>Brethren.</hi> And when this thy <hi>Saviours</hi> humility comes freſh into thy <hi>memory,</hi> that he whoſe <hi>Throne</hi> is <hi>Mount-heaven,</hi> footſtoole the <hi>Earth,</hi> whom all the <hi>inhabitants</hi> of the <hi>Earth,</hi> and all the <hi>Angels</hi> of <hi>Heaven</hi> muſt worſhip; that he would ſtoope to waſh thee: Stoope <hi>Gallant</hi> and learne of him to be lowly, ſo to be, it is a good argument thou art well loaden with <hi>grace;</hi> for as branches of <hi>Trees,</hi> and eares of <hi>Corne,</hi> the better they are loaden, ſtoop neerer the earth; and the beſt <hi>refined Gold,</hi> goes downe in the <hi>ballance:</hi> ſo the more fruitfull and <note place="margin">Quo ſanctior hoc humilior Ambroſ.</note> precious a <hi>Soule</hi> is, the more it lowers it ſelfe, and the higher in <hi>Gods</hi> eye it ſhall bee exal<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obiectum. </seg>
+               </label> And thus from <hi>Christs Act,</hi> we deſcend to the <hi>Object,</hi> what hee waſhed, and from what; <hi>Vs from our ſinnes.</hi>
+            </p>
+            <p>Which words argue, 1 ſinnes condition, it is pollution; ſo <hi>Zacharias</hi> brands it, uncleane<g ref="char:EOLhyphen"/>neſſe; <note place="margin">13. 1. Atramentum Evae. Amb. 26.</note> therefore <hi>Ezekiel</hi> compares it to ſcum, 22. 18. <hi>Hoſea</hi> to a riſing <hi>leproſie;</hi> S. <hi>Iude,</hi> to a <hi>ſpot;</hi> S. <hi>Ambroſe</hi> to a <hi>blacke cloud: Vna nubecula peccatricis totam fere obſcuravit Eccleſiam. Res est</hi> 
+               <note place="margin">Ep. ad virg. lap<g ref="char:EOLhyphen"/>ſam.</note> 
+               <hi>foetida,</hi> ſaith <hi>Origen,</hi> a ſpawne of an uncleane <hi>ſpirit;</hi> which unleſſe waſhed away in the <hi>laver</hi> of <hi>Christs purifying blood,</hi> and a flood of cordiall <hi>repentance,</hi> will in fine aſſociate with a <hi>Cage</hi> of uncleane <hi>Birds.</hi> Therefore minde we <hi>Apoſtoli<g ref="char:EOLhyphen"/>call counſell;</hi> touch not, taſte not, handle not; for as <hi>Syracides</hi> ſpeakes, hee that waſheth him<g ref="char:EOLhyphen"/>ſelfe becauſe of a <hi>dead body,</hi> and toucheth it <note place="margin">Eccleſ. 34. 26.</note>
+               <pb n="12" facs="tcp:177894:10"/> againe, what availes his waſhing? And as his waſhing proves ſinne its <hi>nature,</hi> ſo it unmaskes all the <hi>ſonnes</hi> of <hi>men,</hi> that albeit in their <hi>originall</hi> they were like to the houſe of <hi>Iacob;</hi> wherein <note place="margin">Amb. de fug. ſeculi c. 4.</note> no <hi>image</hi> of <hi>impiety,</hi> no <hi>ſpot</hi> of <hi>pollution,</hi> but all as cleere as <hi>Chrystall;</hi> yet ſince the prevarication all as <hi>Labans Lambes</hi> are ſpeckled and ſpotted, <hi>A capite ad calcem,</hi> from top to toe.</p>
+            <p>Let <hi>Abraham,</hi> the father of the <hi>faithfull;</hi> 
+               <note place="margin">Iſa. 1. 6.</note> 
+               <hi>Aaron,</hi> on whoſe <hi>bonnet</hi> was holineſſe to the <hi>Lord;</hi> 
+               <note place="margin">Amb. a pol. Da<g ref="char:EOLhyphen"/>niel. Antequam noſcamur macu<g ref="char:EOLhyphen"/>lamur.</note> 
+               <hi>David,</hi> the <hi>Lords Darling; Iob,</hi> whoſe crowne is <hi>Iuſtice; Paul,</hi> that veſſell of <hi>mercy; Peter</hi> the mouth of the <hi>Apoſtles;</hi> thoſe devout <hi>Women,</hi> that were <hi>Apoſtolae Apoſtolis,</hi> even <hi>Mary-Ieſus,</hi> the mir<g ref="char:EOLhyphen"/>rour of the <hi>Saints,</hi> ſpeake freely; and they will unanimouſly confeſſe to their own ſhame, they were great <hi>ſinners;</hi> yet to the praiſe of <hi>Gods grace,</hi> his <hi>Sonne</hi> waſhed them from their <hi>ſinnes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But in thus ſaying, they may ſay to me as the widdow of <hi>Sarepta</hi> to <hi>Elias, Am I come to bring their ſinnes to remembrance?</hi>
+            </p>
+            <p>I have no delight to rake in dead mens <hi>graves,</hi> 
+               <note place="margin">Reſp.</note> or ſet their <hi>frailties</hi> on the <hi>Stage,</hi> but ſo farre to confirme from them this <hi>truth;</hi> in many things <note place="margin">Amb. non ſolum docentes ſed er<g ref="char:EOLhyphen"/>rantes inſtruunt</note> we ſinne all, and that if we fall as they did, wee may beare our ſelves upon the <hi>wings</hi> of <hi>mercy,</hi> to obtaine as they have; or make their <hi>faults,</hi> as markes at <hi>Sea,</hi> to ſteere our courſe wiſely, leſt wee-runne on theſe <hi>Rockes,</hi> and ſo ſinke <hi>Barke</hi> and <hi>Goods.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But here may be obtruded a <hi>Dilemma:</hi> if <hi>Christs Spouſe</hi> be all faire, then there is no <hi>ſpot,</hi>
+               <pb n="13" facs="tcp:177894:10"/> ſo needes no <hi>waſhing;</hi> if any <hi>ſpot,</hi> how is ſhe all <hi>faire,</hi> as <hi>Salomon</hi> ſpeakes; withall is not this <note place="margin">Cant. 4 7.</note> derogatorie from <hi>Chriſts</hi> plenary <hi>ſatisfaction?</hi>
+            </p>
+            <p>For <hi>reſolution</hi> of the former part, wee are to <note place="margin">Reſp.</note> conſider the <hi>Spouſe,</hi> the body of <hi>Saints;</hi> firſt, in regard of imputative <hi>holineſse,</hi> thus ſpotleſſe, <note place="margin">Eccleſia nigra quia ex peccato<g ref="char:EOLhyphen"/>ribus, decora ex fide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sacramento Ambroſ.</note> and more orient than the <hi>Sunne:</hi> Secondly, in their inherent <hi>holineſſe;</hi> thus as the <hi>Moone,</hi> part blacke, part bright: And for the latter part of the <hi>Argument,</hi> grant the <hi>Churches</hi> pollution, it imperfects not <hi>Christs</hi> lotion; to inſtance: He that comes forth of the <hi>Bathe,</hi> is cleane waſhed, but trampling ſlimie <hi>earth,</hi> the ſoles of his feet contract ſome ſully: yet therein for his defile<g ref="char:EOLhyphen"/>ment the <hi>Bathe</hi> is unblameable: after the ſame manner we cleanſed in that beatifying <hi>foun<g ref="char:EOLhyphen"/>taine</hi> of <hi>Christs blood</hi> open for <hi>Iudah</hi> and <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> to waſh in for <hi>ſinne</hi> and <hi>uncleanneſſe;</hi> may not <note place="margin">Zach. 13. 1.</note> if the feet of our <hi>ſoules, viz.</hi> our <hi>affections,</hi> wal<g ref="char:EOLhyphen"/>king on this ſinfull ſoyle, licke up ſome defi<g ref="char:EOLhyphen"/>ling duſt, that we ſtand afterwards need of <hi>wa<g ref="char:EOLhyphen"/>ſhing,</hi> impute to this holy <hi>Bathe</hi> any imperfecti<g ref="char:EOLhyphen"/>on; and hereupon is it according to our <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> ſaying, <hi>He that is waſhed, needeth not ſave to waſh his feet.</hi> 
+               <note place="margin">Iohn 13. 10.</note>
+            </p>
+            <p>Avaunt then vaine <hi>Catharist,</hi> that vaunts thy <note place="margin">Conſect.</note> ſelfe cleare of all tincture of <hi>ſinne: Eliſha</hi> was of another minde, witneſſe his words, <hi>What is man</hi> 
+               <note place="margin">Iob 25. 14, 15, 16.</note> 
+               <hi>that he ſhould bee cleane? and he that is borne of a Woman, that he ſhould be just? behold hee found no ſtedfastneſſe in his Saints; Yea the Heavens are uncleane in his ſight; how much more is man ab<g ref="char:EOLhyphen"/>hominable
+<pb n="14" facs="tcp:177894:11"/> and filthy which drinketh iniquitie like water.</hi>
+            </p>
+            <p>Therefore to that ſelfe-beſeeming pure ge<g ref="char:EOLhyphen"/>neration, I ſay no more, but as the <hi>Emperour</hi> ſaid to that <hi>Arch-Puritan, Aceſius,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note place="margin">Theod. Hiſtor.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſet thou the <hi>Ladder,</hi> and goe alone to <hi>Heaven;</hi> but for my own part, with the <hi>Leper</hi> I confeſſe I am uncleane, and with the <hi>wings</hi> of <hi>devotion,</hi> faith and prayer, hie me to the <hi>mercy-ſeat;</hi> and in the <hi>Publicans</hi> poſture, crie, <hi>Lord be mercifull to me a ſinner:</hi> and to conclude this with that <hi>Exhortation</hi> of the <hi>Apoſtle, Clenſe</hi> 
+               <note place="margin">2 Cor. 7. 1.</note> 
+               <hi>your ſelves from all filthineſse of the fleſh and the ſpi<g ref="char:EOLhyphen"/>rit;</hi> not from the great <hi>Beames,</hi> but the leaſt <hi>Motes;</hi> not that the <hi>World</hi> may ſee on the out<g ref="char:EOLhyphen"/>ſide, but that thou knowſt in the inſide, even all filthineſſe of the fleſh and ſpirit, for <hi>into the new Ieruſalem enters no uncleane thing.</hi> 
+               <note place="margin">Apoc. 21. 27.</note>
+            </p>
+            <p>But you will ſay unto me, wherewithall may we be made cleane?</p>
+            <p>To which I anſwer: Firſt, <hi>flumine,</hi> by Eye<g ref="char:EOLhyphen"/>water teares, for ſinnes diſtilled thorow the lymbecke of a contrite <hi>Soule,</hi> which doe not on<g ref="char:EOLhyphen"/>ly <note place="margin">A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quod de<g ref="char:EOLhyphen"/>fendi non poteſt, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ui poteſt.</note> waſh, but as a <hi>ſponge,</hi> wipe out. Secondly, <hi>flamine,</hi> with the <hi>Holy Ghost;</hi> which, as fire, ſcoures of ruſt-eating ſinnes from the face of the <hi>Soule;</hi> and for this ſhall every one pray with the <hi>Church, Come Holy Ghost.</hi> Thirdly, <hi>ſanguine,</hi> by <hi>blood;</hi> not myſticall, as the <hi>blood</hi> of <hi>Martyrs;</hi> nor typicall, as was the <hi>blood</hi> of <hi>Goates,</hi> but the naturall and moſt precious <hi>blood</hi> of <hi>Chriſt,</hi> which clenſeth from all <hi>ſinne;</hi> and this is that where<g ref="char:EOLhyphen"/>with <note place="margin">1 Ioh. 1. 7.</note>
+               <pb n="15" facs="tcp:177894:11"/> he waſhed us; the third branch of the ſe<g ref="char:EOLhyphen"/>cond generall part, <hi>viz.</hi> the <hi>Organon,</hi> of our <hi>pu<g ref="char:EOLhyphen"/>rification.</hi> 
+               <note place="margin">Organon.</note>
+            </p>
+            <q>And waſhed us in his Blood.</q>
+            <p>In <hi>waſhing</hi> us with his <hi>Blood,</hi> his <hi>love, life, blood,</hi> is ſhed abroad in our hearts, that it was not cold, but warme as <hi>blood,</hi> nor drye, for with his <hi>blood</hi> he waſhed us; nor little, it was not <hi>gutta, ſed unda;</hi> not a drop, but a flood wherewith he waſhed us: This was <hi>propheſied</hi> by good old <hi>Iacob,</hi> of <hi>Christ,</hi> under the name of <hi>Iudah,</hi> hee <note place="margin">Gen. 49 11.</note> ſhould waſh his <hi>garment</hi> in <hi>Wine,</hi> and his <hi>Cloake</hi> in the <hi>blood</hi> of the <hi>Grape:</hi> what other meaning, but that <hi>Christs Body,</hi> the <hi>veſtment</hi> of his <hi>ſoule,</hi> ſhould be all over bloody? This was prefigured by the red <hi>Cow,</hi> whoſe <hi>blood</hi> was to be <hi>ſprinkled</hi> 
+               <note place="margin">Numb. 19.</note> ſeven times before the <hi>Tabernacle;</hi> ſo our <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> ſeven times effuſed upon the <hi>Tabernacle</hi> of his <hi>Body;</hi> Firſt, In his <hi>Circumciſion:</hi> Secondly, in <hi>Pilates</hi> Hall, ſtript and whipt till <hi>blood</hi> came: Thirdly, in the <hi>Garden</hi> ſweat teares of <hi>blood:</hi> Fourthly, in his ſpineall <hi>coronation:</hi> Fifthly, in his <hi>crucifixion:</hi> Sixthly, in piercing his <hi>hands</hi> and <hi>feet</hi> with nayles: and Seventhly, at the laſt, to be ſure to take away life, the <hi>Souldier</hi> thruſt a <hi>Speare</hi> into the filme of his <hi>heart,</hi> whence ſtrea<g ref="char:EOLhyphen"/>med <note place="margin">Columb. dere Anat. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7.</note> 
+               <hi>water</hi> and <hi>blood</hi> in abundance; whereupon the <hi>Element</hi> trembled, Rockes rent aſunder, the <hi>Heavens</hi> covered the face of the <hi>Earth</hi> with darkeneſſe, as with a ſable <hi>Canopie,</hi> vaile his bloody nakedneſſe.</p>
+            <p>It is noted to be the innative vertue of <hi>blood</hi>
+               <pb n="16" facs="tcp:177894:12"/> in its kinde; 1. To <hi>mollifie:</hi> 2. To <hi>purifie:</hi> 3. To <hi>preſerve alive:</hi> 4. To revive the <hi>dead.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For the firſt, So it is ſtoryed of the <hi>Goat,</hi> that albeit the <hi>Adamant</hi> in its owne nature bee inflexible and infrangible, yet ſteeped in <hi>Goats blood,</hi> it becomes pliable and tender: But more efficacious is the impreciable vertue of <hi>Christs Blood,</hi> that being <hi>ſprinkled</hi> on the <hi>heart,</hi> by the <hi>hand</hi> of <hi>Faith,</hi> it intenders it though harder than the hardeſt <hi>Adamant:</hi> This rent <hi>Rockes,</hi> and made <hi>ſtones</hi> relent; this wrought one of the <hi>Theeves</hi> on the <hi>Croſſe,</hi> as ſoft as <hi>Waxe,</hi> to receive the gracious impreſſion of the <hi>Spirit,</hi> to beleeve in a crucified <hi>Christ,</hi> and in the merit of that his <hi>Blood,</hi> bubbling before his eyes, to be with him in <hi>Paradiſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Blood</hi> purifies ſpots, and purges over-ſprea<g ref="char:EOLhyphen"/>ding maladies; therefore the <hi>Perſian Magi</hi> (as <hi>Nicephorus</hi> relates) counſelled <hi>Conſtantine</hi> the <note place="margin">Lib. 7. c. 33.</note> great, being ſmitten with a loathſome <hi>Leproſie,</hi> for his cure, to bathe himſelfe in the <hi>blood</hi> of <hi>Innocents</hi> (it ſavours <hi>Ieſuiticall</hi> adviſe) let the credit of the <hi>Story</hi> ſtand, <hi>ad placitum;</hi> but this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, worthy of all accep<g ref="char:EOLhyphen"/>tation, that <hi>Christs innocent Blood</hi> expiates our guilt, and heales all manner of ſpirituall <hi>Le<g ref="char:EOLhyphen"/>proſie.</hi> 
+               <note place="margin">Ioh. 1. 1.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Blood</hi> preſerves alive; therefore <hi>Phyſitians</hi> pre<g ref="char:EOLhyphen"/>ſcribe the <hi>blood</hi> of a <hi>Dove,</hi> a ſoveraigne againſt diſeaſes in the <hi>eye</hi> and the <hi>braine. Galen</hi> gives it againſt the bruiſes, called <hi>Hypoſphagmata,</hi> which <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> preſents every thing to the eye, <hi>red.</hi> And <hi>Iul.</hi>
+               <pb n="17" facs="tcp:177894:12"/> 
+               <hi>Alex.</hi> commends it dropped on the corners of <note place="margin">Lib. 4. ſalubri<g ref="char:EOLhyphen"/>um.</note> the <hi>braine,</hi> called, <hi>Pia &amp; Dura Mater,</hi> in the wounds of the <hi>head,</hi> to helpe to hold in life: So pretious was the <hi>blood</hi> of <hi>Chriſt,</hi> a harmeleſſe <hi>Dove</hi> that dropped on our <hi>eyes,</hi> whereas before all we could ſee were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>goare blood,</hi> by reaſon of our bloody ſinnes; now wee behold as in a <hi>Glaſse,</hi> ſalvation before our <hi>eyes:</hi> And whereas in our head <hi>(Adam)</hi> we had received a deadly wound; by a <hi>Balme,</hi> made of this <hi>Blood,</hi> and laid to it, we are alive unto <hi>God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>Blood</hi> hath revived the <hi>dead;</hi> As the <hi>Story</hi> of the <hi>Pelican</hi> goes for currant, her <hi>brood</hi> being ſtung to death by the brood of the <hi>Serpent,</hi> by diſtilling her <hi>blood</hi> on her owne brood, they have beene reſtored to life: So <hi>Christ</hi> our true <hi>Pelican,</hi> when by our ſerpentine firy-ſtinging <hi>ſinnes,</hi> we were ſtung to death, by the vertue of his <hi>blood</hi> effuſed on our <hi>ſoules</hi> wee are quickned and raiſed to life, to the praiſe of his <hi>glory.</hi> But there is one maine and memorable difference betwixt this <hi>Blood</hi> and all others: The <hi>blood</hi> of man or beaſt may give ſnow-white a ſcarlet tincture, but never die ſcarlet, ſnow-white: but this and this onely, by mercy and miracle, makes ſcarlet <hi>Soules</hi> as white as <hi>ſnow.</hi> In <hi>Salomon</hi> thus that <hi>Elder</hi> moved the <hi>queſtion,</hi> and made the <hi>anſwer</hi> to our <hi>Evangeliſt, What are they that</hi> 
+               <note place="margin">Apoc. 7. 13, 14.</note> 
+               <hi>are arrayed in long white robes, and whence came they? Theſe are they which came out of great tribula<g ref="char:EOLhyphen"/>tion, and have waſhed their long Robes, and have made their long robes white in the Blood of the Lambe.</hi>
+            </p>
+            <pb n="18" facs="tcp:177894:13"/>
+            <p>Now, that <hi>Chriſt</hi> waſhed us with his <hi>blood:</hi> Hence, a choake <hi>Peare</hi> to the <hi>Manichees,</hi> who deny the truth of <hi>Chriſts-humanity;</hi> to the <hi>Mar<g ref="char:EOLhyphen"/>cionites,</hi> who averre he had a <hi>phantaſticall Body;</hi> to <hi>Apelles,</hi> who conceived hee had a <hi>Sydereall ſubſtance:</hi> He that runnes, may read printed in <hi>blood,</hi> the truth of his <hi>Manhood:</hi> For as <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> the great, however the popular ſort deified him, yet having got a clap with an <hi>Arrow,</hi> ſaid, ye ſtile me <hi>Iupiters Sonne,</hi> as if immortall, <hi>Sed hoc vulnus clamat me eſſe hominem,</hi> this <hi>blood</hi> that iſſues from the <hi>wound,</hi> proves me in the iſſue a man: So may I ſay of our <hi>Saviour,</hi> though my<g ref="char:EOLhyphen"/>riads of <hi>Angels</hi> and <hi>Saints</hi> acclaime he is <hi>God, ergo,</hi> immortall, and a crue of <hi>Hereticks,</hi> diſ<g ref="char:EOLhyphen"/>claime him to be a man; yet the ſtreames of blood following the <hi>arrow</hi> of <hi>death</hi> that ſtrucke him, make good, he was perfect man, of a rea<g ref="char:EOLhyphen"/>ſonable <hi>ſoule,</hi> and humane fleſh ſubſiſting: but this their <hi>hereſie</hi> wee paſſe: for there muſt bee <note place="margin">1 Cor. 11. 9.</note> 
+               <hi>hereſies;</hi> and in holy admiration, ponder in the chambers of our <hi>hearts,</hi> the immenſe <hi>love</hi> of the <hi>Father,</hi> and of the <hi>Sonne;</hi> of the <hi>Father,</hi> that hee would give his <hi>Sonne</hi> to ſhed his <hi>blood,</hi> and dye the execrable death of the <hi>Croſse</hi> for the <hi>ſonnes</hi> of <hi>men, Ab aeterno genitum,</hi> begotten before all eternitie.</p>
+            <p>
+               <hi>His Sonne?</hi> 
+               <note place="margin">Pſal. 2. 7.</note>
+            </p>
+            <p>
+               <hi>Omnis creaturae primogenitum,</hi> the firſt begot<g ref="char:EOLhyphen"/>ten of every creature; <hi>Vnigenitum</hi> his onely be<g ref="char:EOLhyphen"/>gotten <note place="margin">Col. 1. 16. Ioh. 1. 18. Mat. 3. ult. Eſa 42. 1.</note> 
+               <hi>Sonne; Dilectum,</hi> his beloved <hi>Sonne;</hi> and as ſpeakes that Seraphicall <hi>Prophet, Electum</hi>
+               <pb n="19" facs="tcp:177894:13"/> 
+               <hi>Animae ſuae,</hi> ſuch a ſonne in whom his <hi>ſoule</hi> de<g ref="char:EOLhyphen"/>lighted; and for us <hi>Caytiffes</hi> not worthy the leaſt crum of his <hi>mercy.</hi> And no leſſe admira<g ref="char:EOLhyphen"/>ble is the <hi>love</hi> of <hi>Gods</hi> dearely beloved <hi>Sonne,</hi> to powre out his <hi>ſoule</hi> unto <hi>death</hi> for us and our <hi>ſalvation.</hi>
+            </p>
+            <p>It is ſtoried of <hi>Cyrus,</hi> King of <hi>Perſia,</hi> having <note place="margin">Zenop. lib. 3.</note> taken <hi>Tygranes,</hi> King of <hi>Armenia,</hi> with his Queene, captives; on a time he moved <hi>Tygra<g ref="char:EOLhyphen"/>nes,</hi> what he would give for his Queenes ran<g ref="char:EOLhyphen"/>ſome; to whom he replyed, That had hee what he once had, <hi>viz.</hi> his <hi>Crowne</hi> and <hi>Kingdome,</hi> hee would freely give it for her freedome, and if that were too little, he would purchaſe it with the price of his <hi>blood;</hi> which <hi>love</hi> to his <hi>Spouſe, Cyrus</hi> obſerving, preſently reinveſted them to their priſtine liberties and <hi>honours:</hi> Wherupon <hi>Tygranes</hi> ſpake unto his <hi>Queene: Cyrus</hi> is a moſt <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> noble <hi>Prince;</hi> the <hi>Queene</hi> made anſwer, My af<g ref="char:EOLhyphen"/>fections were only bent on <hi>him</hi> that would have ſpent his deareſt <hi>blood</hi> for me: a <hi>fortiori,</hi> ſhould we, eſpouſed unto <hi>Christ,</hi> the <hi>Prince</hi> of the Kings of the <hi>Earth,</hi> fixe our hearts on him, that not onely reſolved our freedome from <hi>Perſian,</hi> but <hi>infernall thraldome,</hi> and purchaſed it with his precious <hi>Blood.</hi> To winde up in a word, here every eye may ſee whereon to reſt his <hi>Soule,</hi> that it may be ſaved in that great and notable day; not on his owne <hi>righteouſneſſe,</hi> that is imperfect; nor <hi>Saints oyle,</hi> that is not ſufficient for them<g ref="char:EOLhyphen"/>ſelves; nor the <hi>Popiſh incruentall Maſse,</hi> a <hi>Maſſe</hi> of horrible <hi>impieties;</hi> no <hi>Popes pardon,</hi> or, <hi>Aqua
+<pb n="20" facs="tcp:177894:14"/> benedicta</hi> of theirs, to which they aſcribe rare, incredible, both <hi>ſpirituall</hi> and <hi>corporall</hi> effects; whereby they bewitch ſilly <hi>ſoules,</hi> to inrich themſelves, and all not worth a bit of bread, but ſolely in the bleſſed blood of that <hi>immaculate Lambe, Christ Ieſus.</hi>
+            </p>
+            <p>Herein to our moſt precious <hi>ſoules</hi> is, <hi>ſalus oblata,</hi> ſalvation freely offered; herein, by our moſt precious <hi>faith,</hi> is <hi>ſalus recepta,</hi> ſalvation im<g ref="char:EOLhyphen"/>braced; in this <hi>faith,</hi> by the impreſſe of the <hi>Spirit,</hi> is <hi>ſalus obſignata,</hi> ſalvation ſealed; and hereby is the end of our <hi>faith, ſalus conſummata,</hi> our ſalvation finiſhed; and while we ſojourne in theſe <hi>terrene Tabernacles,</hi> the foundation of our <hi>glory,</hi> the riſe and perfection is in and from this <hi>blood;</hi> whereby wee are made <hi>Kings</hi> and <hi>Prieſts</hi> unto our <hi>God.</hi> And this is the ſecond branch wherein <hi>Chriſts love</hi> is <hi>manifeſted.</hi>
+            </p>
+            <p>
+               <hi>Hee hath crowned us Kings, and conſecrated us Prieſts to God and his Father.</hi>
+            </p>
+            <p>
+               <hi>Artaxerxes</hi> honoured <hi>Nehemiah</hi> much, to <note place="margin">Kings.</note> advance him to bee his <hi>Cup-bearer;</hi> and <hi>Saul David,</hi> to make him his <hi>Sonne</hi> in law, but to make us <hi>Kings,</hi> leſſe than none ſave <hi>God</hi> alone, what could be more? but what manner of <hi>Kings?</hi> 
+               <note place="margin">Rex ſol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deo mi<g ref="char:EOLhyphen"/>nor.</note> not politicall, but ſpirituall; <hi>Et bene</hi> (ſaith S. <hi>Gregory) quia praelati cunctis motibus carnis, &amp;c.</hi> 
+               <note place="margin">Moral. 36. c. 21.</note> as reigning over our corrupt affections; curbing <hi>luxury;</hi> tempering intemperate <hi>avarice,</hi> hum<g ref="char:EOLhyphen"/>bling hautineſſe of <hi>ſpirit,</hi> and extinguiſhing the fire of <hi>fury:</hi> Will you a little more at large
+<pb n="21" facs="tcp:177894:14"/> behold the majeſtie of as many as are truely made <hi>Kings?</hi>
+            </p>
+            <p>Their <hi>unction</hi> is not <hi>oyle,</hi> but holy <hi>blood.</hi>
+            </p>
+            <p>Their <hi>Diademe</hi> is not 12. <hi>ſtones,</hi> but 12. <hi>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars.</hi> 
+               <note place="margin">Apoc. 12. 1.</note>
+            </p>
+            <p>The <hi>Sword</hi> is the <hi>Word</hi> of <hi>God.</hi>
+            </p>
+            <p>The <hi>Scepter</hi> is the <hi>power</hi> of his <hi>Spirit.</hi>
+            </p>
+            <p>The <hi>Globe,</hi> the <hi>World,</hi> all things are theirs.</p>
+            <p>Their Royall <hi>Robes,</hi> the <hi>ſyndone</hi> of <hi>Christs</hi> 
+               <note place="margin">1 Cor. 3. 22.</note> 
+               <hi>Righteouſneſſe.</hi>
+            </p>
+            <p>Their Princely Pallaces, <hi>White-Hall, Gods Sanctuary,</hi> and <hi>Non-ſuch</hi> the new <hi>Ieruſalem;</hi> the Eſquires of their <hi>bodies,</hi> a heavenly guard, even 10000. of <hi>Angels;</hi> their <hi>dyet</hi> is of the beſt, the inconſumptible <hi>body</hi> and the <hi>blood</hi> of <hi>Christ;</hi> and hee that made them <hi>kings,</hi> is the <hi>King</hi> of <hi>Kings.</hi>
+            </p>
+            <p>Beloved <hi>Brethren,</hi> wee ſee our honourable calling; let <hi>dogges</hi> returne to their <hi>vomit; Hogs</hi> of Epicurus Heards, wallow in their obſcene <note place="margin">Aliud Sceptrum, aliud plectrum.</note> 
+               <hi>pleaſures; Kites</hi> feed on <hi>caerrion; Beasts</hi> live like <hi>Beaſts;</hi> yet our calling calls upon us to live like <hi>men,</hi> the chiefe of <hi>men, Kings,</hi> and Chriſti<g ref="char:EOLhyphen"/>an <hi>Kings.</hi> What therefore was <hi>Ioſuahs</hi> injuncti<g ref="char:EOLhyphen"/>on, ought to be ours, in theory &amp; practice, <hi>viz.</hi> the exerciſe of pure <hi>Religion,</hi> to meditate in the <hi>Booke</hi> of the <hi>Law</hi> day and night, to obſerve, and <note place="margin">Ioſu. 1. 8.</note> doe according to all the <hi>Law,</hi> not to turne from it to the right hand, nor to the left, that wee <note place="margin">Deut. 17. 19.</note> may proſper whereſoever we goe. It is recor<g ref="char:EOLhyphen"/>ded in Eccleſiaſticall <hi>History</hi> of <hi>Philadelphus,</hi> King of <hi>Aegypt,</hi> however hee had two hundred thouſand <hi>volumes</hi> in his <hi>Library,</hi> yet hee ſent
+<pb n="22" facs="tcp:177894:15"/> the <hi>keeper</hi> of his <hi>Library, Demetrius,</hi> to the <hi>Iewes,</hi> to have the <hi>Booke</hi> of the <hi>Law,</hi> and the Tranſla<g ref="char:EOLhyphen"/>tors, which we call the <hi>Septuagint.</hi> Such was his love to the <hi>Law:</hi> We need not ſend farre, or ſpend much to have the <hi>Booke</hi> of the <hi>Law</hi> and the <hi>Goſpel</hi> in our owne houſes, in <hi>Gods</hi> houſes they are read and orthodoxally expounded e<g ref="char:EOLhyphen"/>very day, and if the beſt of deſires be not there<g ref="char:EOLhyphen"/>to, to know and to doe, we are not worthy the name of <hi>Christians,</hi> much leſſe the honour of <hi>Kings:</hi> but if wee ſhall make the <hi>profeſſion</hi> and the <hi>practice</hi> of ſincere <hi>Religion,</hi> our <hi>joy,</hi> our <hi>glory,</hi> and our <hi>crowne,</hi> and be found ſo doing, <hi>Kings</hi> we are here by <hi>grace,</hi> and ſhall reigne with the <hi>King</hi> of <hi>Kings</hi> hereafter in eternall <hi>glory:</hi> And thus I leave this, and take hold on the laſt branch of our <hi>honour, He hath conſecrated us Priests to God and the Father.</hi>
+            </p>
+            <p>Amongſt the <hi>Heathen,</hi> one man ſometime was both <hi>King</hi> and <hi>Prieſt; Rex idem hominum</hi> 
+               <note place="margin">Virg.</note> 
+               <hi>Phoebique ſacerdos.</hi> St. <hi>Peter</hi> combines both to<g ref="char:EOLhyphen"/>gether, <hi>Ye are a royall Priesthood.</hi> St. <hi>Ambroſe</hi> is <note place="margin">1 Pet. 2. 9. <hi>In Luc. c.</hi> 22.</note> plaine, <hi>Omnes filii Eccleſiae ſacerdotes ſunt,</hi> all the true children of the <hi>Church</hi> are <hi>Priests,</hi> ſpi<g ref="char:EOLhyphen"/>ritually <hi>Priests;</hi> whereof <hi>Clemens Alexandrinus</hi> renders this reaſon, <hi>Quia eorum caput Christus est Rex &amp; Sacerdos,</hi> becauſe <hi>Christ</hi> their head is both <hi>King</hi> and <hi>Prieſt.</hi> Then <hi>Priests</hi> wee are: therefore it behoves us to adorne our holy <hi>Pro<g ref="char:EOLhyphen"/>feſſion,</hi> as <hi>Priests,</hi> to be filled with knowledge, not of the moſt ſo much, as of the beſt; to ſend up the Heraulds of our <hi>ſoules</hi> to the <hi>Mercy-ſeat,</hi>
+               <pb n="23" facs="tcp:177894:15"/> for our ſelves and others, that we may be <hi>healed,</hi> to <hi>purifie</hi> our ſelves when we approach the <hi>Tem<g ref="char:EOLhyphen"/>ple;</hi> and to be holy in all manner of <hi>converſation:</hi> what other thing in <hi>Moſes Law,</hi> did that his <hi>Act</hi> 
+               <note place="margin">Levit. 8. 24.</note> typifie, to put blood on the <hi>Prieſts</hi> eare, the thumbe of the right hand, and the great toe of the right foot, than that to ſpirituall <hi>Prieſts,</hi> the doore of knowledge, and the inſtruments of action, ſhould be <hi>ſanctified,</hi> and being <hi>ſanctified,</hi> forget not to <hi>ſacrifice, Cum ſale, cum igne, cum thure,</hi> with diſcretion, fervor of <hi>love, prayer:</hi> ſub<g ref="char:EOLhyphen"/>due <hi>Arrogance;</hi> then we offer to the <hi>Lord</hi> a <hi>Calfe;</hi> 
+               <note place="margin">Orig. 9. Ep. ad Rom</note> overcome wee anger, then wee offer a <hi>Ramme;</hi> quell we <hi>concupiſcence,</hi> that is to offer a <hi>Goat;</hi> reſtraine we wandring imagination, then wee offer <hi>Pigeons.</hi> In three words to conclude all; let us all offer, the <hi>Philoſophers</hi> three kindes of goods, 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, our externall goods, doling <note place="margin">Ethic. l. 1. c. 8.</note> 
+               <hi>almes</hi> to the needy; for with ſuch ſacrifices <hi>God</hi> is well pleaſed. I, but thou haſt it not to offer; yes ſure, not ſo poore, but thou haſt a <hi>ſacrifice, Si Zachei divitias non habes, ſi deſint tibi duo minuta,</hi> 
+               <note place="margin">Remig.</note> 
+               <hi>&amp;c,</hi> if thou haſt not <hi>Zache</hi> his ſtore, not ſo much as the <hi>widowes</hi> mites, no not a cup of cold <hi>water;</hi> offer to thy <hi>God,</hi> thy good <hi>will,</hi> and <hi>God</hi> takes it well, according to that, <hi>Coronat Deus intus Vo<g ref="char:EOLhyphen"/>luntatem, ubi non invenit facultatem.</hi> 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note place="margin">August.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the goods of our <hi>bodies;</hi> ſo the <hi>Apostle</hi> 
+               <note place="margin">Rom. 12. 1.</note> ſupplicates the <hi>Romanes:</hi> how this may be, gol<g ref="char:EOLhyphen"/>den mouthed <hi>Chryſoſtome</hi> inſtructs elegantly, <hi>Let thy eye behold no evill, or no evill hold thy eye:</hi> 
+               <note place="margin">Hom 20. in Ep. ad Rom.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo thy <hi>eye</hi> is a <hi>ſacrifice:</hi> thy <hi>tongue</hi> ſpeak
+<pb n="24" facs="tcp:177894:16"/> no evill, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and it is an oblation, thy hand act no evill, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and it is be<g ref="char:EOLhyphen"/>come a <hi>burnt Offering;</hi> ſo order all other parts in <hi>Gods</hi> ſervice, and ſo they are made <hi>Gods ſacrifices:</hi> Laſtly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the goods of our minde, <hi>Prayers</hi> perfumed with <hi>faith,</hi> incenſed with <hi>zeale</hi> to make them as <hi>incenſe,</hi> daily and duly preſen<g ref="char:EOLhyphen"/>ted by the hands of <hi>Christ Ieſus,</hi> to that <hi>God</hi> which heareth <hi>prayers,</hi> and to cloſe with our <hi>God</hi> in <hi>praiſes,</hi> and praiſe him for all his <hi>mercies,</hi> from the <hi>morning</hi> of our <hi>youth,</hi> to the <hi>mid-day</hi> of our <hi>ſtrength;</hi> even to the <hi>evening</hi> of our <hi>dayes,</hi> till our <hi>Sunne</hi> ſet, that when the <hi>Sonne</hi> of <hi>righteouſ<g ref="char:EOLhyphen"/>neſse</hi> ſhall appeare, we may beare with <hi>Cheru<g ref="char:EOLhyphen"/>bins</hi> and <hi>Seraphins</hi> a part in their <hi>heavenly Halle<g ref="char:EOLhyphen"/>lujah,</hi> world without end.</p>
+            <p>Now to the <hi>God</hi> of <hi>Love;</hi> the <hi>Spirit</hi> of <hi>grace,</hi> that moves us to <hi>love;</hi> and the <hi>Son</hi> of <hi>Gods Love, Who loved us, and waſhed us in his Blood, and made us Kings and Prieſts unto our God;</hi> a <hi>Trinity</hi> in <hi>Vnity,</hi> and an <hi>Vnitie</hi> in <hi>Trinitie,</hi> be aſ<g ref="char:EOLhyphen"/>cribed <hi>Glory</hi> and <hi>Dominion,</hi> for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>SA. BAKER,</signed>
+               <dateline>
+                  <hi>Fulham, </hi> 
+                  <date>Septemb. 16. 1635.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:177894:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
